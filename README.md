@@ -18,7 +18,6 @@ In the commands below, terms wrapped in \*asterisks\* signify places where you'l
 1. Clone this repository:
     ```
     git clone https://github.com/zaynelt/einstein-vision-node
-    cd einstein-vision-node
     ```
 
 1. Create a Heroku app, provision add-ons, push source to app:
