@@ -2,7 +2,7 @@
 
 This Node.js sample app is a modified version of the Einstein Vision Classification Demo app built and maintained by Heroku. That app lets you upload an image to get predictions from the Salesforce [Einstein Vision](http://docs.metamind.io/docs/what-is-the-predictive-vision-service) pre-built general classifier model, using the [Add-on](https://elements.heroku.com/addons/einstein-vision).
 
-This application is modified slightly, to utilize Salesforce DX and the <a href="https://github.com/zaynelt/salesforce-einstein-platform-apex" target="_blank">Salesforce Einstein Playground</a>. The following instructions reflect those modifications. To work directly with the awesome, original app, check out the <a href="https://github.com/heroku/einstein-vision-node" target="_blank">Heroku repo</a>.
+This application is modified slightly, to utilize Salesforce DX and the <a href="https://github.com/zaynelt/salesforce-einstein-platform-apex" target="_blank">Salesforce Einstein Playground</a>. The following instructions reflect those modifications. To work directly with the awesome, original app, check out the <a href="https://github.com/heroku/einstein-vision-node" target="_blank">Heroku repo</a>. NOTE: If you already have an Einstein account and access to a custom model, feel free to skip the Playground setup and model generation steps.
 
 ## Instructions
 
