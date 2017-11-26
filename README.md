@@ -36,7 +36,7 @@ In the commands below, terms wrapped in \*asterisks\* signify places where you'l
 	```
 	heroku config:set EINSTEIN_VISION_ACCOUNT_ID=*email@youreinsteinaccount.com* 
 	heroku config:set EINSTEIN_VISION_PRIVATE_KEY=*---WHOLE TEXT OF YOUR PRIVATE KEY---*
-	heroku config:set EINSTEIN_VISION_URL=https://api.einstein.ai
+	heroku config:set EINSTEIN_VISION_URL=https://api.einstein.ai/
 	heroku config:set CUSTOM_MODEL_ID=*model_from_step_above*
 	```
 
